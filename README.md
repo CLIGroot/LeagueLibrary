@@ -1,6 +1,6 @@
-# LeagueOfLibrary
+# LeagueLibrary
 ### Reference: ![state](https://img.shields.io/badge/State-Development-red)
-LeagueOfLibrary is a library for Python3 based on the origial Riot Games API but focusing only on League Of Legends Game.
+LeagueLibrary is a library for Python3 based on the origial Riot Games API but focusing only on League Of Legends Game.
 
 If you can try `pip install LeagueLibrary`
 
